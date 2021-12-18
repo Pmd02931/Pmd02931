@@ -1,14 +1,24 @@
 <table>
-    <tr>
-        <th>Month</th>
-        <th>Savings</th>
-    </tr>
-    <tr>
-        <td>January</td>
-        <td>$100</td>
-    </tr>
-    <tr>
-        <td>February</td>
-        <td>$80</td>
-    </tr>
+    <thead>
+        <tr>
+            <th rowspan="2">Month</th> <!--An HTML table with a table cell that spans two rows:-->
+            <th colspan="2">Savings</th> <!--To make a cell span over multiple columns, use the colspan attribute:-->
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>January</td>
+            <td>$100</td>
+        </tr>
+        <tr>
+            <td>February</td>
+            <td>$80</td>
+        </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <td>Sum</td>
+            <td>$180</td>
+        </tr>
+    </tfoot>
 </table>
