@@ -1,0 +1,10 @@
+<!--The HTML style attribute is used to add styles to an element, such a color, font, size and more-->
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: red;
+}
