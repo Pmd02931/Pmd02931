@@ -1,0 +1,5 @@
+/*The "!important" element define as the most important degree on style, given high priority to the style*/
+
+button{
+    color: orange !important; 
+}
