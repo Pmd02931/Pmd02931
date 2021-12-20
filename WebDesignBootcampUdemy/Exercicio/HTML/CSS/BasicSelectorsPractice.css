@@ -3,13 +3,13 @@
 /* Make everything with the class of 'done' grey*/
 
 /* Make the element with the id of 'clear' have a red BG and white text */
-li{
-    color: #0000ff;
+li {
+    color: #00f;
 }
 .done{
     color: #808080;
 }
 #clear{
-    background-color:#ff0000;
-    color:#ffffff;
+    background-color: #f00;
+    color: #fff;
 }
