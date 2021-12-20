@@ -1,0 +1,28 @@
+/*The :nth-of-type() CSS pseudo-class matchs elements based on their position among siblings of the same type (tag name).
+
+/* Selects every fourth <p> element
+   among any group of siblings */
+p:nth-of-type(4n) {
+    color: lime;
+}
+
+/*The :hover CSS pseudo-class matches when the user intertacts elements with a pointing device, but does not necessarily active it. It is generally triggered when the user hover over an element with cursor*/
+/* Selects any <a> element when "hovered" */
+a:hover {
+    color: orange;
+}
+
+/*The :checked CSS pseudo-class selector represents any radio (<input type="radio">), checkbox (<input type="checkbox") , or option (<option> in a <select>) element that is checked or toggled to an on state.*/
+
+/* Matches any checked/selected radio, checkbox, or option */
+:checked {
+    margin-left: 25px;
+    border: 1px solid blue;
+}
+
+/*The :active CSS pseudo-class represents an element (such as a button) that is being activated by the user. When using a mouse, "activation" typically starts when the user presses down the primary mouse button.*/
+
+/* Selects any <a> that is being activated */
+a:active {
+    color: red;
+  }

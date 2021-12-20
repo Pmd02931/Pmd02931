@@ -1,0 +1,6 @@
+/* Paragraphs that come immediately after any image */
+
+
+img + p {
+    font-weight: bold;
+  }
