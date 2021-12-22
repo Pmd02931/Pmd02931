@@ -1,5 +1,0 @@
-/*The descendet selecto matches all elements that are decendants of specified element.*/
-
-div p{
-    background: color rgb(255, 255, 0);;
-}

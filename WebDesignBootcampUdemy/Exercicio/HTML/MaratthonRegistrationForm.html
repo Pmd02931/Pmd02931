@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="CSS/MaratthonRegistrationForm.css
+    ">
+</head>
+<body>
+    <h1>Race Registration</h1>
+    <form action="" >
+        <div>
+            <section>
+                <label for="First">First Name:</label>
+                <input type="text" id="First" name="First" required> <br>
+                <label for="Last">Last Name:</label>
+                <input type="text" id="Last" name="Last" required>
+            </section>
+            <section>
+                <label for="RaceType">Chosse the Race Type</label>
+                <select name="RaceType" id="RaceType" required>
+                    <option value="Forfun">For Fun</option>
+                    <option value="HalfMarathon">Half Marathon</option>
+                    <option value="FullMarathon">Full Marathon</option>
+                </select>
+            </section>
+            <section>
+                <label for="Email">Email: </label>
+                <input type="Email" placeholder="xxxxxx@xxxxx" required><br>
+                <label for="Password">Password: </label>
+                <input type="Password" placeholder="Password" required>
+            </section>
+            <section>
+                <label for="division">Select Age Group</label>
+                <select name="division" id="division">
+                    <option value="kids">Under 18</option>
+                    <option value="ya">18-30</option>
+                    <option value="adults">30-50</option>
+                    <option value="seniors">50+</option>
+                </select>
+            </section>
+    </div>
+    <button>Send</button>
+    </form>
+</body>
+</html>

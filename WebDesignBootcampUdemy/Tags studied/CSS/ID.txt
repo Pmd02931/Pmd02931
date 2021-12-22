@@ -1,5 +1,0 @@
-/*The #id selector styles the element with the specified id.*/
-
-#firstname {
-    background-color: yellow;
-  }

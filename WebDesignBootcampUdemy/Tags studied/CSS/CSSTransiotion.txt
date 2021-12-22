@@ -1,7 +1,0 @@
-//CSS transitions provide a way to control animation speed when changing CSS properties.//
-
-transition
-transition-delay
-transition-duration
-transition-property
-transition-timing-function

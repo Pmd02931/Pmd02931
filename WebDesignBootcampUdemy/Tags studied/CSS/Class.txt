@@ -1,5 +1,0 @@
-/*The .class selector selects elements with a specific class attribute.*/
-
-.intro {
-    background-color: yellow;
-  }

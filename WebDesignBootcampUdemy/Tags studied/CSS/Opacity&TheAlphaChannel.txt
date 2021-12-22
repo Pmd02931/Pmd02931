@@ -1,7 +1,0 @@
-/*The opacity CSS property sets the opacity of an element. Opacity is the degree to which content behind an element is hidden, and is the opposite of transparency.*/
-
-opacity: 0.9
-opacity: 90%
-
-/------------------------------------------------------------------------------------------------/
-color: rgba (xxx,xxx,xxx,xxx) //The "a" define the opacity of element, and it's range is 0 to 1

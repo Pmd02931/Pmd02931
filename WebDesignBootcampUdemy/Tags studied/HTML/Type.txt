@@ -1,7 +1,0 @@
-<!--The type attribute specifies the type of <input> element to display-->
-<form action="/action_page.php">
-    <label for="username">Username: </label>
-    <input type="text" id="username" name="username"><br>
-    <input type="submit" value="Submit">
-    <input type="text" placeholder="Coloque seu nome">
-</form>
