@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*Section6Exer10.c
 Develop an algorithm that, given the age of a swimmer, classify it into one of the following categories:
 
@@ -34,3 +35,15 @@ int main()
         printf("Adult");
     }
 }
+=======
+//Make an algorithm to calculate the average parts inventory.//
+#include <stdio.h>
+int main(){
+    int mq, mm;
+    printf("Enter the max value: ");
+    scanf("%d", &mm);
+    printf("Enter the min value: ");
+    scanf("%d", &mq);
+    printf("Average stock is: % .2f", (float)((mm+mq)/2));
+}
+>>>>>>> e7b8f86e59d4f3694f76217ef3aabc7b50bd7cf9
