@@ -18,3 +18,10 @@
 - 🌱 Actualmente estoy aprendiendo todo lo que puedo;</br>
 - 💞️ Busco colaborar con todo lo que sé;</br>
 - 📫 Cómo comunicarse conmigo: https://www.linkedin.com/in/pedro-mota-aaab5a1b9/;</br>
+
+
+<h1>Functions of "WebDevelopBootCamp\JavaScript\Scripts-WebDevelop.js"</h1>
+<ul>
+    <li>guess()<!--Guess a number beteween 1 to 10--></li>
+    <li>rollDie()<!--Give a random number between 0 and  a number of case specified by the user--></li>
+    
