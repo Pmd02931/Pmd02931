@@ -1,4 +1,5 @@
-<h2>Versão em Português</h2>
+<head><link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous"></head>
+<h2 class="container">Versão em Português</h2>
 - 👋 Oi, meu nome é Pedro Mota, e pelo meu nome, presumo que é meio obvio que sou brasileiro;</br>
 - 👀 Meu sonho é trabalhar na Lookheed Martin e me tornar um programador;</br>
 - 🌱 Sou curioso por natureza;</br>
@@ -24,4 +25,5 @@
 <ul>
     <li>guess()<!--Guess a number beteween 1 to 10--></li>
     <li>rollDie()<!--Give a random number between 0 and  a number of case specified by the user--></li>
+    <li>GambiarraFo**()<!--Achei tão fod* que tive de deixar--></li>
     
