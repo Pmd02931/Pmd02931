@@ -18,3 +18,9 @@ function guess() {
 function rollDie(numSides = 6){ //Comando usado para devolver numero aleatório dependendo das possibilidades
     return Math.floor(Math.random()*numSides)+1;
 }
+
+function GambiarraFo**(){
+    for (let i=25; i>=0; i -= 5){
+    console.log(i)
+    }
+}
