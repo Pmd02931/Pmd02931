@@ -32,3 +32,18 @@ function isSnakeEyes(a,b){
         console.log("Not Snake Eyes!")
     }
 }
+
+function lastElement(input = []){
+    if(input.length === 0){
+        return null;
+    } else {
+        let last = (input.length -1 )
+        return input[last]
+        
+    }
+}
+
+
+function capitalize(msg){
+    console.log(msg.charAt(0).toUpperCase());
+}
