@@ -1,31 +1,31 @@
-<head><link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous"></head>
-<h2 class="container">Versão em Português</h2>
+<h1 class="container">Sobre mim</h1>
 - 👋 Oi, meu nome é Pedro Mota, e pelo meu nome, presumo que é meio obvio que sou brasileiro;</br>
 - 👀 Meu sonho é trabalhar na Lookheed Martin e me tornar um programador;</br>
 - 🌱 Sou curioso por natureza;</br>
 - 💞️ Sempre opto por ajudar com o que posso;</br>
 - 📫 Conecte comigo no Linkedin: https://www.linkedin.com/in/pedro-mota-aaab5a1b9/;</br>
 
-<h2>English Version</h2>
-- 👋 Hi, I’m Pedro Mota and I'm Brazilian;</br>
-- 👀 I’m interested in become a programmer and working at Lockheed Martin;</br>
-- 🌱 I’m currently learning everything I can;</br>
-- 💞️ I’m looking to collaborate everything I know;</br>
-- 📫 How to reach me: https://www.linkedin.com/in/pedro-mota-aaab5a1b9/;</br>
-
-<h2>Versíon en español</h2>
-- 👋 Hola, soy Pedro Mota y soy brasileño;</br>
-- 👀 Estoi interesado en convertime en programador y tabajar en Lockheed Martin;</br>
-- 🌱 Actualmente estoy aprendiendo todo lo que puedo;</br>
-- 💞️ Busco colaborar con todo lo que sé;</br>
-- 📫 Cómo comunicarse conmigo: https://www.linkedin.com/in/pedro-mota-aaab5a1b9/;</br>
-
-
-<h1>Functions of "WebDevelopBootCamp\JavaScript\Scripts-WebDevelop.js"</h1>
+<h2>Cursos que estou vendo</h2>
 <ul>
-    <li>guess()<!--Guess a number beteween 1 to 10--></li>
-    <li>rollDie()<!--Give a random number between 0 and  a number of case specified by the user--></li>
-    <li>GambiarraFo**()<!--Achei tão fod* que tive de deixar--></li>
-    <li>isSnakeEyes()</li>
-    <li>capitalize()</li>
-    <li>lastElement</li>
+    <li><a href="https://www.udemy.com/share/101W923@pkZ4Lr2wbBJfZYzJvnUJKsZZ_hylSSqBLYmgXsayr1IjK0rW5pkXx2RicKOQJgBFcA==/">The Web Developer Bootcamp 2022</a></li>
+    <li><a href="https://www.udemy.com/share/103KUi3@52okFzVcaQSfNDBc94BR_UNEq94JddRwmF_b-_D1M5ZU-bto1sKN450pQXSIkVOyVg==/">Aprenda tudo sobre o Linux! Completo e atualizado v2022!</a>
+    </li>
+</ul>
+
+<h2>Concluido</h2>
+    <ul>
+    <li><a href="https://www.udemy.com/share/101XQY3@dy-lM8zCqTryIKCx3VMldJGEyuJLbDdpu6Loek8mdqkA1S2dK26ZWqSdO6bLP3BNBg==/">Algoritmos e Lógica de Programação do básico ao avançado</a></li>
+    <li><a href="https://www.udemy.com/share/101r6s3@b6rASNLrdL2cJvomwcmvrrj3kH7xgio_xPeVK-3RdiVvY2iwFHRkyRiw4kLxva6mqA==/">Programação para Leigos e informática do básico ao avançado</a></li>
+    </ul>
+
+<h2>O que atualmente sei/vi:</h2>
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Bootstrap</li>
+</ul>
+
+<h2>Projetos que tenho aqui(por curso)</h2>
+<ul>
+    <li><a href="https://github.com/Pmd02931/Pmd02931/tree/main/WebDevelopBootCamp">Web Develop Bootcamp</a>
+</ul>
