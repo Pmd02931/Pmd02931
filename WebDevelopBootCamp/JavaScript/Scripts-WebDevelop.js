@@ -47,3 +47,16 @@ function lastElement(input = []){
 function capitalize(msg){
     console.log(msg.charAt(0).toUpperCase());
 }
+
+function sumArray(arr){
+    let sum = 0;
+    for (let i=0;i<arr.length; i++){
+        sum+=arr[i];
+    }
+    return sum;
+}
+
+function returnDay(num){
+    const days = [null,'Monday',"Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"];
+    return num > 0 && num <= 7 ?days[num] : null;
+}
