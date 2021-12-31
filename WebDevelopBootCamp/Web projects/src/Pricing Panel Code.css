@@ -58,8 +58,13 @@ body{
     align-items: center;
     min-height: 100vh;
 }
+
+.bg-bronze{
+    background-color: #CD7F32;
+}
 .bg-silver{
     background-color: silver;
+
 }
 
 .bg-gold{
