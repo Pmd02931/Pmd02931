@@ -10,6 +10,10 @@
     <li><a href="https://www.udemy.com/share/101W923@pkZ4Lr2wbBJfZYzJvnUJKsZZ_hylSSqBLYmgXsayr1IjK0rW5pkXx2RicKOQJgBFcA==/">The Web Developer Bootcamp 2022</a></li>
     <li><a href="https://www.udemy.com/share/103KUi3@52okFzVcaQSfNDBc94BR_UNEq94JddRwmF_b-_D1M5ZU-bto1sKN450pQXSIkVOyVg==/">Aprenda tudo sobre o Linux! Completo e atualizado v2022!</a>
     </li>
+    <li><a href="https://www.udemy.com/share/101XQY3@OaFTYRGPpl9w-Zzg_FtFZqlaUnxnN0rlXAPtuXDTL8eZxAMHLmJuSenBiF5NbsyHIg==/">2022 Complete Python Bootcamp From Zero to Hero in Python</a>
+    </li>
+    <li><a href="https://www.udemy.com/share/101WfW3@sKBZB5mT0u3sxcBkBgAIHweJ55rvDswDEQGVIxeHMyYwO0FJ0TX7W-3mVOfgcsd57Q==/">Machine Learning A-Z™: Hands-On Python & R In Data Science</a>
+    </li>
 </ul>
 
 <h2>Concluido</h2>
