@@ -24,3 +24,11 @@ function GambiarraFo**(){
     console.log(i)
     }
 }
+
+function isSnakeEyes(a,b){
+    if(a ==b && a == 1){
+        console.log("Snake Eyes!")
+    }else{
+        console.log("Not Snake Eyes!")
+    }
+}
