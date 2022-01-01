@@ -61,13 +61,16 @@ body{
 
 .bg-bronze{
     background-color: #CD7F32;
+    color: black;
 }
 .bg-silver{
-    background-color: silver;
+    background-color: #cdb132;
 
+    color: black;
 }
 
 .bg-gold{
+    color: black;
     background-color: gold;
 }
 
@@ -90,7 +93,83 @@ body{
     border-bottom: none;
 }
 
-pricing-img{
+.pricing-img{
     margin-bottom: 25px;
     max-width: 100%;
+}
+
+.pricing-header{
+    font-size: 2em;
+    color: #888;
+    font-weight: 600;
+    letter-spacing: 1px;
+    background-color: #ccc;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.pricing-features{
+    margin: 50px, 0, 25px;
+    color: #016ff9;
+    background-color: #ddd;
+}
+
+.pricing-features-item{
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-size: 12px;
+    line-height: 1.5;
+    padding: 15px 0;
+    border-top: 1px solid #e1f1ff;
+}
+
+.pricing-features-item:last-child{
+    border-bottom: 1px solid #e1f1ff;
+}
+
+.pricing-class{
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color: #016ff9;
+    display: block;
+    font-size: 32px;
+    font-weight: 700;
+    background: #ccc;
+}
+
+.pricing-button{
+    border: 1px solid #9dd1ff;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 15px 35px;
+    text-decoration: none;
+    margin: 25px 0;
+    transition: background-color 200ms ease-in-out;
+}
+
+.pricing-button:hover, .pricing-button:focus{
+    background-color: #e1f1ff;
+}
+
+.princing-button.is-featured{
+    background-color: #48aaff;
+    color: #fff;
+}
+
+.princing-button.is-featured:hover, .princing-button.is-featured:focus{ 
+    background-color: #269aff;
+}
+
+@media(min-width: 900px){
+    .panel{
+        flex-direction: row;
+    }
+    .pricing-plan{
+        border:none;
+        border-right: 1px solid #e1f1ff;
+        padding: 25px 50px;
+    }
+    .pricing-plan:last-child{
+        border-right:none;
+    }
 }
