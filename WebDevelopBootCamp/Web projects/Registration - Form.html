@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <link rel="stylesheet" href="src/Race Registration - Form.css">
+    <link rel="stylesheet" href="src/Registration - Form.css">
     <title>Document</title>
 </head>
 
@@ -61,27 +61,31 @@
         </div>
         <br>
         <!---------------------->
-        <div class="form-row form-select ">
-            <div class="col-8 input-group ">
+        <div class="form-row form-select">
+            <div class="col input-group ">
                 <select name="AgeGroup" id="" class="form-select">
                     <option selected>Enter your class</option>
                     <option value="A">A</option>
                     <option value="B">B</option>
                     <option value="C">C</option>
-                    <textarea name="" id="" rows="2" class="form-control"></textarea>
+                    <textarea name="" id="" rows="2" class="form-control" placeholder="BláBláBlá"></textarea>
                 </select>
             </div>
-            <div>
-                <label for="Dif" class="form-label col">Dif</label>
-                <input type="range" name="Dif" id="">
-            </div>
-            <div class="form-check col-1 check-option col">
-                <input type="checkbox" class="form-check-input form-label" value="" id="Agree">
-                <label for="Agree" class="form-label ">I agree everything</label>
+            <div class="sidebar radio-option input-group">
+                <div class="form-check col-1 check-option col-3 ">
+                    <input type="checkbox" class="form-check-input form-label" value="" id="Agree">
+                    <label for="Agree" class="form-label ">I agree everything</label>
+                </div>
+                <div>
+                    <label for="Dif" class="form-label col">Dif</label>
+                    <input type="range" name="Dif" id="" class="col-9">
+                </div>
+                
+                <button type="button" class="btn btn-dark col-6">Submit</button>
             </div>
         </div>
         <br>
-        <button type="button" class="btn btn-dark">Submit</button>
+        
     </form>
 </body>
 

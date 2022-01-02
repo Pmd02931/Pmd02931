@@ -20,7 +20,7 @@ body{
     text-transform: uppercase;
 }
 .radio-option{
-    border: 1px solid #e9ecef;
+    display: flex;
     justify-content: center;
     align-items: center;
 }
@@ -32,3 +32,8 @@ textarea{
     height: auto;
 }
 
+@media(min-width: 900px){
+    .panel{
+        flex-direction: column;
+    }
+}
