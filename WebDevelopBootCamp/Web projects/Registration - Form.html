@@ -12,7 +12,7 @@
 </head>
 
 <body>
-    <form action="#" class="panel container">
+    <form action="#" class="panel container-fluid">
         <div lass="form-group">
             <h1>Dados pessoais</h1>
             <section class="form-row">
@@ -27,9 +27,7 @@
                     </div>
                 </div>
             </section>
-            <br>
-            <!---------------------->
-            <section class="form-row">
+            <section class="form-row mt-0">
                 <div class="col my-1 input-group">
                     <label class="input-group-text input-group-prepend" for="Email">Email:</label>
                     <input type="text" class="form-control" id="Email" required>
@@ -78,7 +76,7 @@
                 </div>
                 <div>
                     <label for="Dif" class="form-label col">Dif</label>
-                    <input type="range" name="Dif" id="" class="col-9">
+                    <input type="range" name="Dif" id="Dif" class="col-9" min="-10" max="10">
                 </div>
                 
                 <button type="button" class="btn btn-dark col-6">Submit</button>
