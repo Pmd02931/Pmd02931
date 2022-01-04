@@ -19,7 +19,7 @@ function rollDie(numSides = 6){ //Comando usado para devolver numero aleatório 
     return Math.floor(Math.random()*numSides)+1;
 }
 
-function GambiarraFo**(){
+function GambiarraFo(){
     for (let i=25; i>=0; i -= 5){
     console.log(i)
     }
@@ -59,4 +59,8 @@ function sumArray(arr){
 function returnDay(num){
     const days = [null,'Monday',"Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"];
     return num > 0 && num <= 7 ?days[num] : null;
+}
+
+function TodoListProject(){
+    
 }
